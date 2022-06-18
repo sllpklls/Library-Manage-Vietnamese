@@ -1,2 +1,2 @@
 # Library-Manage-Vietnamese
-File copy về edit lại =))
+File copy về edit lại đấy =))
